@@ -63,4 +63,4 @@ Telegram频道传送门：汇聚热门Telegram频道入口，涵盖资讯、娱�
 
 黑料大事记梳理娱乐圈与网红界的重要爆料事件，时间线清晰，内容真实，是吃瓜群众回顾热点的好帮手。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/kri20250625/jif）</span>
